@@ -1,0 +1,14 @@
+{
+    "name": "fandingqiang/demo",
+    "description": "a test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fandq",
+            "email": "fandq@liguanjia.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
